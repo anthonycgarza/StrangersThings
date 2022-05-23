@@ -1,0 +1,11 @@
+export { default as Home } from './Home';
+export { default as Account } from './Account';
+export { default as AddPost } from './AddPost';
+export { default as Edit } from './Edit';
+export { default as Message } from './Message'; 
+export { default as NavBar } from './NavBar';
+export { default as PostForm } from './PostForm';
+export { default as Posts } from './Posts';
+export { default as PostSingle } from './PostSingle';
+export { default as Profile } from './Profile';
+export { default as UserInbox } from './UserInbox';
